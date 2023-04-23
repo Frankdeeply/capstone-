@@ -1,1 +1,2 @@
-readme.txt school project
+user@Franklethabo12@gmail.com
+user@github
