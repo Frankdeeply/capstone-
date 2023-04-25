@@ -1,2 +1,2 @@
-user@Franklethabo12@gmail.com
-user@github
+http//github.frankdeeply 
+frankdeeply@github
