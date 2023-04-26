@@ -1,1 +1,1 @@
-github.frankdeeply 
+Diamond tech deployed by Render
